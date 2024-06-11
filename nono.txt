@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Prathamesh Vyavhare
-=======
 Deep Bachanikar
->>>>>>> origin/b1
